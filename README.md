@@ -8,14 +8,16 @@
 
 <br>
 
-1. Google dev registry - https://get.dev/
-2. Google best practices for website development - https://web.dev
-3. Mozilla documentation - https://mdn.dev/
-4. Women who code - https://women.dev/
-5. tensorflow hub - https://tfhub.dev
-6. bit component hub - https://bit.dev
-7. personal developer websites - https://github.dev
-8. Go CLI framework - https://cobra.dev/
-9. Accend website for dataops - https://www.dataops.dev
-10. lodash web library - https://lodash.dev/
+<ul>
+	<li>Google dev registry - <a src="https://get.dev/">https://get.dev/</a></li>
+	<li>Google best practices for web development<a src="https://web.dev/">https://web.dev/</a></li>
+	<li>Mozilla documentation - <a src="https://mdn.dev/">https://mdn.dev/</a></li>
+	<li>Women in dev - <a src="https://women.dev/">https://women.dev/</a></li>
+	<li>Bit component hub - <a src="https://bit.dev/">https://bit.dev/</a></li>
+	<li>Tensorflow hub - <a src="https://tfhub.dev/">https://tfhub.dev/</a></li>
+	<li>Personal developer websites by github - <a src="https://github§.dev/">https://github.dev/</a></li>
+	<li>Go CLI library - <a src="https://cobra.dev/">https://cobra.dev/</a></li>
+	<li>Dataops knowledge base by Accend - <a src="https://dataops.dev/">https://dataops.dev/</a></li>
+	<li>lodash library - <a src="https://lodash.dev/">https://lodash.dev/</a></li>
+</ul>
 
