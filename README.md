@@ -18,4 +18,5 @@
 		<li>Go CLI library: <a href="https://cobra.dev/">https://cobra.dev/</a></li>
 		<li>lodash library: <a href="https://lodash.dev/">https://lodash.dev/</a></li>
 		<li>V8 javascript virtual machine: <a href="https://v8.dev/">https://v8.dev/</a></li>
+		<li>About open source: <a href="https://opensource.dev/">https://opensource.dev/</a></li>
 	</ol>
