@@ -6,7 +6,6 @@
 	<a href="code-of-conduct.md">Code</a>
 	<a href="https://twitter.com/qbllr_">Twitter</a>
 </p>
-<p>
 	<ol>
 		<li>Google dev registry: <a src="https://get.dev/">https://get.dev/</a> </li>
 		<li>Google best practices for web development: <a src="https://web.dev/">https://web.dev/</a></li>
