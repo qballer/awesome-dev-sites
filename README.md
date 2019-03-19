@@ -4,7 +4,7 @@
 </p>
 <p>
 	<a href="code-of-conduct.md">Code</a>
-	<a href="https://twitter.com/qballer">Twitter</a>
+	<a href="https://twitter.com/qbllr_">Twitter</a>
 </p>
 <p>
 	<ul>
