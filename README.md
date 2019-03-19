@@ -4,7 +4,7 @@
 </p>
 <p>
 	<a href="code-of-conduct.md">Code</a>
-	<a href="https://twitter.com/qballer">Twitter</a>
+	<a href="https://twitter.com/qbllr_">Twitter</a>
 </p>
 <p>
 	<ul>
@@ -18,5 +18,4 @@
 		<li>Developer websites by github: <a src="https://github§.dev/">https://github.dev/</a></li>
 		<li>Go CLI library: <a src="https://cobra.dev/">https://cobra.dev/</a></li>
 		<li>lodash library: <a src="https://lodash.dev/">https://lodash.dev/</a></li>
-	</ul>
-</p>
+	</ol>
