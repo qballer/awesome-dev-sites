@@ -19,4 +19,5 @@
 		<li>lodash library: <a href="https://lodash.dev/">https://lodash.dev/</a></li>
 		<li>V8 javascript virtual machine: <a href="https://v8.dev/">https://v8.dev/</a></li>
 		<li>About open source: <a href="https://opensource.dev/">https://opensource.dev/</a></li>
+		<li>Nodejs history: <a href="https://nodejs.dev/">https://nodejs.dev/</a></li>
 	</ol>
