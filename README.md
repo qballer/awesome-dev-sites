@@ -1,12 +1,10 @@
-<p align="center">
-	<img src="media/badge.svg"/>&nbsp;&nbsp;&nbsp;
-</p>
-<p align="center">
+<img src="media/badge.svg"/>
+<h1>Awesome dev sites.</h1>
+
+<p>
 	<a href="code-of-conduct.md">Code</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/qballer">Twitter</a>&nbsp;&nbsp;&nbsp;
 </p>
-
-<br>
 
 <ul>
 	<li>Google dev registry - <a src="https://get.dev/">https://get.dev/</a></li>
