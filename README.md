@@ -17,4 +17,5 @@
 		<li>Developer websites by github: <a href="https://github§.dev/">https://github.dev/</a></li>
 		<li>Go CLI library: <a href="https://cobra.dev/">https://cobra.dev/</a></li>
 		<li>lodash library: <a href="https://lodash.dev/">https://lodash.dev/</a></li>
+		<li>V8 javascript virtual machine: <a href="https://v8.dev/">https://v8.dev/</a></li>
 	</ol>
