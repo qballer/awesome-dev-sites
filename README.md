@@ -1,6 +1,7 @@
+<p>
 <img src="media/badge.svg"/>
 <h1>Awesome dev sites.</h1>
-
+</p>
 <p>
 	<a href="code-of-conduct.md">Code</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/qballer">Twitter</a>&nbsp;&nbsp;&nbsp;
