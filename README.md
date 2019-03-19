@@ -8,7 +8,7 @@
 </p>
 <p>
 	<ul>
-		<li>Google dev registry: <a src="https://get.dev/">https://get.dev/</a></li>
+		<li>Google dev registry: <a src="https://get.dev/">https://get.dev/</a> </li>
 		<li>Google best practices for web development: <a src="https://web.dev/">https://web.dev/</a></li>
 		<li>Mozilla documentation:  <a src="https://mdn.dev/">https://mdn.dev/</a></li>
 		<li>Bit component hub: <a src="https://bit.dev/">https://bit.dev/</a></li>
