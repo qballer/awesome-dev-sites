@@ -5,7 +5,6 @@
 	<a href="code-of-conduct.md">Code</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/qballer">Twitter</a>&nbsp;&nbsp;&nbsp;
 </p>
-<br>
 
 <br>
 
