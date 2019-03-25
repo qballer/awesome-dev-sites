@@ -21,5 +21,5 @@
 		<li>About open source: <a href="https://opensource.dev/">https://opensource.dev</a></li>
 		<li>Nodejs history: <a href="https://nodejs.dev/">https://nodejs.dev</a></li>
 		<li>Stadia google game platform: <a href="https://stadia.dev/">https://stadia.dev</a></li>
-		<li>Puppeteer Node library: <a href="https://pptr.dev/">https://pptr.dev</a></li>
+		<li>Puppeteer automate chrome usage.: <a href="https://pptr.dev/">https://pptr.dev</a></li>
 	</ol>
