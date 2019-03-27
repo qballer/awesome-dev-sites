@@ -1,5 +1,5 @@
 <p>
-	<h1>Awesome dev sites <img src="media/badge.svg"/>.</h1>
+	<h1><img src="media/badge.svg"/> dev sites.</h1>
 	A curated list of awesome .dev TLD domain, dedicated to the developer community.
 </p>
 <p>
