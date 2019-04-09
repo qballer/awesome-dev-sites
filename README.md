@@ -8,7 +8,7 @@
 </p>
 <ul>
 	<li><h3>Google</h3></li>
-	<li>.Dev registry: <a href="https://get.dev/">https://get.dev</a> </li>
+	<li>.Dev registry: <a href="https://get.dev/">https://get.dev</a></li>
 	<li>Google best practices for web development: <a href="https://web.dev/">https://web.dev</a></li>
 	<li>Puppeteer automate chrome usage.: <a href="https://pptr.dev/">https://pptr.dev</a></li>
 	<li>Stadia game platform: <a href="https://stadia.dev/">https://stadia.dev</a></li>
@@ -24,6 +24,7 @@
 	<li><h3>Culture</h3></li>
 	<li>Women in dev: <a href="https://women.dev/">https://women.dev</a></li>
 	<li>About open source: <a href="https://opensource.dev/">https://opensource.dev</a></li>
+	<li>Hashnode bloging platform for devlopers: <a href="https://hashnode.dev/">https://hashnode.dev/</a></li>
 	<li><h3>Misc</h3></li>
 	<li>Developer websites by github: <a href="https://github.dev/">https://github.dev</a></li>
 	<li>Go CLI library: <a href="https://cobra.dev/">https://cobra.dev</a></li>
