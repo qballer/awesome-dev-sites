@@ -10,7 +10,7 @@
 	<li><h3>Google</h3></li>
 	<li>.Dev registry: <a href="https://get.dev/">https://get.dev</a></li>
 	<li>Google best practices for web development: <a href="https://web.dev/">https://web.dev</a></li>
-	<li>Puppeteer automate chrome usage.: <a href="https://pptr.dev/">https://pptr.dev</a></li>
+	<li>Puppeteer automate chrome usage: <a href="https://pptr.dev/">https://pptr.dev</a></li>
 	<li>Stadia game platform: <a href="https://stadia.dev/">https://stadia.dev</a></li>
 	<li><h3>Javascript</h3></li>
 	<li>Mozilla documentation:  <a href="https://mdn.dev/">https://mdn.dev</a></li>
