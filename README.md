@@ -18,6 +18,7 @@
 	<li>lodash library: <a href="https://lodash.dev/">https://lodash.dev</a></li>
 	<li>V8 javascript virtual machine: <a href="https://v8.dev/">https://v8.dev</a></li>
 	<li>Nodejs history: <a href="https://nodejs.dev/">https://nodejs.dev</a></li>
+	<li>web component framework<a href="https://amp.dev/">https://amp.dev</a></li>
 	<li><h3>Data Science</h3></li>
 	<li>Tensorflow hub: <a href="https://tfhub.dev/">https://tfhub.dev</a></li>
 	<li>Dataops knowledge base by Accend: <a href="https://dataops.dev/">https://dataops.dev</a></li>
