@@ -29,4 +29,6 @@
 	<li><h3>Misc</h3></li>
 	<li>Developer websites by github: <a href="https://github.dev/">https://github.dev</a></li>
 	<li>Go CLI library: <a href="https://cobra.dev/">https://cobra.dev</a></li>
+	<li>a fast and friendly git client for Mac and Windows: <a href="https://fork.dev/">https://fork.dev</a></li>
+	<li>slack API: <a href="https://slack.dev/">https://slack.dev</a></li>
 </ul>
