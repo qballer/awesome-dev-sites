@@ -31,4 +31,7 @@
 	<li>Go CLI library: <a href="https://cobra.dev/">https://cobra.dev</a></li>
 	<li>a fast and friendly git client for Mac and Windows: <a href="https://fork.dev/">https://fork.dev</a></li>
 	<li>slack API: <a href="https://slack.dev/">https://slack.dev</a></li>
+	<li>Personal sites of the form <a href="https://firstname.dev">firstname.dev</a></li>
+	<li>Personal sites of the form <a href="https://fullname.dev">fullname.dev</a></li>
+	<li>Personal sites of the form <a href="https://lastname.dev">lastname.dev</a></li>
 </ul>
