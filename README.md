@@ -19,6 +19,7 @@
 	<li>V8 javascript virtual machine: <a href="https://v8.dev/">https://v8.dev</a></li>
 	<li>Nodejs history: <a href="https://nodejs.dev/">https://nodejs.dev</a></li>
 	<li>web component framework <a href="https://amp.dev/">https://amp.dev</a></li>
+	<li>Cube, Open source analytics framework: <a href="https://cube.dev/">https://cube.dev/</a></li>
 	<li>Svelte compiler based component framework <a href="https://svelte.dev/">https://svelte.dev/</a></li>
 	<li><h3>Data Science</h3></li>
 	<li>Tensorflow hub: <a href="https://tfhub.dev/">https://tfhub.dev</a></li>
