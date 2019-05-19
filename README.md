@@ -22,6 +22,7 @@
 	<li>Cube, Open source analytics framework: <a href="https://cube.dev/">https://cube.dev/</a></li>
 	<li>Svelte compiler based component framework <a href="https://svelte.dev/">https://svelte.dev/</a></li>
 	<li>html.dev a guide for css, js and html <a href="https://html.dev/">https://html.dev/</a></li>
+	<li>An elegant virtual list component for React: <a href="https://virtuoso.dev/">https://virtuoso.dev</a></li>
 	<li><h3>Data Science</h3></li>
 	<li>Tensorflow hub: <a href="https://tfhub.dev/">https://tfhub.dev</a></li>
 	<li>Dataops knowledge base by Accend: <a href="https://dataops.dev/">https://dataops.dev</a></li>
